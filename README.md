@@ -5,7 +5,7 @@ COG AHOD1331 clinical trial (ClinicalTrials.gov number, NCT02166463)
 
 ## Objectives
 
-- Generate high-quality contours for lymphoma lesions on PET/CT images
+Generate high-quality contours for lymphoma lesions on PET/CT images
 
 ## Getting Started
 
