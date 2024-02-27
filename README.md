@@ -9,4 +9,4 @@ Generate high-quality contours for lymphoma lesions on PET/CT images
 
 ## Getting Started
 
-Get access to the detailed guide: 
+Get access to the detailed [Guide]([https://example.com](https://github.com/xtie97/Lymphoma_Label_Guide/blob/main/lymphoma_labeling_guide.pdf)https://github.com/xtie97/Lymphoma_Label_Guide/blob/main/lymphoma_labeling_guide.pdf).
